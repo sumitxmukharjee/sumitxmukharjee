@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android, GoLang and Much More
 - 💞️ I’m looking to collaborate anywhere
 - 📫 Reachme on X, LinkedIn or wherever you like
-- ⚡ Fun fact: ...
+
 
 <!---
 sumitxmukharjee/sumitxmukharjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
