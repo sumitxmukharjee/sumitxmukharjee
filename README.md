@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Mukharjee
-- 👀 I’m interested in Web Development, Kotlin Development and Solving Problems
-- 🌱 I’m currently learning Android, GoLang and Much More
+- 👀 I’m interested in Web Development,  and Solving Problems
+- 🌱 I’m currently learning GoLang and Much More
 - 💞️ I’m looking to collaborate anywhere
 - 📫 Reachme on X, LinkedIn or wherever you like
 
